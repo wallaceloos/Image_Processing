@@ -27,6 +27,7 @@ filename = 'output.png';
 %input: image, threshold and the size of the window
 %output: corners detected and image with the corners detected over the input image
 [corner_map] = corner_detection_moravec(img, threshold, lenW, filename);
+```
 
 <p align="center">
   <img width="256" height="256" src="https://github.com/wallaceloos/Image_Processing/blob/master/Corner_detector/Moravec/images/blox.png">
