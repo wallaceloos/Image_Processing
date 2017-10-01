@@ -5,6 +5,7 @@
 
 Octave script
 
+```ocatve
 %reading the image
 g = uint8(imread('predio.jpg'));%name of the image
 
