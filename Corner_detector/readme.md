@@ -1,2 +1,0 @@
-
-# Corner Detection Algorithm
