@@ -6,7 +6,7 @@ pkg load image
 
 #loading image
 
-im_rgb = imread("/home/wallace/computer_vision/images/lion.jpg");
+im_rgb = imread("../images/lion.jpg");
 im_gray = rgb2gray(im_rgb);
 
 filter_size = 21;
