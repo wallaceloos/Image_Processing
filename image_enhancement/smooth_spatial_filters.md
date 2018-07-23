@@ -7,6 +7,9 @@
 * gaussian filter  
 * min and max filter
 
+<p align="center">
+<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/smoothoriginal.png" width="35%" height="35%">
+</p>
 
 <p align="center">
 <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/smoothfilter.png" width="100%" height="100%">
