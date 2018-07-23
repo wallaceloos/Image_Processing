@@ -3,4 +3,4 @@
 #### Table of Contents  
 * #### Image Enhancement    
    [Histogram Equalization](image_enhancement/histeq.md)   
-   [Smoothing Spatial Filters]()   
+   [Smoothing Spatial Filters](image_enhancement/smooth_spatial_filters.md)   
