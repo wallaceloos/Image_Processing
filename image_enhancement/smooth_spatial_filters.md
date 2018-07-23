@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/smoothfilter.png" width="100%" height="100%">
+<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/smoothresult.png" width="100%" height="100%">
 </p>
