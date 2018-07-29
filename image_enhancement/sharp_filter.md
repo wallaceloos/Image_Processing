@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/response2.png" width="60%" height="50%">
+<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/response2.png" width="60%" height="60%">
 </p>
