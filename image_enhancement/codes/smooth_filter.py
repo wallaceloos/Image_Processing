@@ -71,9 +71,11 @@ def gauss_filter(img, std, size_mask):#must be odd
 if __name__ == '__main__':
 
 	#opencv already had box, gaussian and median filter implemented. they are much more faster than mine
+	#cv::boxFilter
 	#cv2.GaussianBlur
-	#cv2.blur
 	#cv2.medianBlur
+	#cv2.blur
+	#cv2.filter2D() to convolute a kernel with an image
 
 	img = cv2.imread('name of the image',0)
 
