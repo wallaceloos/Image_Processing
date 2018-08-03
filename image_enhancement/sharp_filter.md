@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/signalfd.png" width="55%" height="55%">
+<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/signalfd.png" width="40%" height="40%">
+  <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/signalsd.png" width="40%" height="40%">
 </p>
 
 <p align="center">
