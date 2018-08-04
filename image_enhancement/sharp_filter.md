@@ -1,3 +1,6 @@
+### Sharpening Filter
+[[code]](codes/sharpening_filter.py)
+
 <p align="center">
 <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/stripe_.png" width="55%" height="45%">
 </p>
