@@ -1,4 +1,4 @@
-### Sharpening Filter
+### Sharpening Spatial Filter
 [[code]](codes/sharpening_filter.py)
 
 <p align="center">
