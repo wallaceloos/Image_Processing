@@ -15,3 +15,7 @@
   <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/img1_resposta1.png" width="65%" height="65%"/>
   <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/img1_resposta2.png" width="65%" height="65%" /> 
 </p>
+
+<p align="center">
+<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/sharp_img.png" width="85%" height="85%">
+</p>
