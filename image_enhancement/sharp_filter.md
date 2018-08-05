@@ -15,7 +15,9 @@ The spatial filtering is performed on the pixels of the image. Sharpening spatia
 <p align="center">
 <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/derivadas4.png" width="65%" height="65%">
 </p>
-
+<p align="justify">
+ The signal and the first and second derivatives are presented above. The values of their derivatives are represented by a colormap, it represents the response of the derivatives. The second-order derivative has a stronger response for fine lines compared to the first-order derivative, and for isolated points as well, since the signal would be similar to fine lines. The first-order derivative has a stronger response than the second-order derivative at the gray-level step signal and it has a slightly stronger response for gray-level ramp signal than the second-order derivative.
+</p>
 <p align="center">
   <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/img1_resposta1.png" width="65%" height="65%"/>
   <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/img1_resposta2.png" width="65%" height="65%" /> 
