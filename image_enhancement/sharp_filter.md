@@ -22,7 +22,9 @@ The spatial filtering is performed on the pixels of the image. Sharpening spatia
   <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/img1_resposta1.png" width="65%" height="65%"/>
   <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/img1_resposta2.png" width="65%" height="65%" /> 
 </p>
-
+<p align="justify">
+Thus we can conclude that sharpening filters based on the second-order derivative will highlight fine details stronger than the sharp filters based on first-order derivative. As the second-order derivatives have a stronger response to fine details than the first-order derivatives,  it is more common to use it for enhancing  the image. The following is an example of sharpening an image using Laplacian operator.
+  </p>
 <p align="center">
 <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/sharp_img.png" width="90%" height="90%">
 </p>
