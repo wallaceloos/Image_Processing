@@ -1,5 +1,5 @@
 ## Image Processing
-Topics of Digital Image Processing. The following topics are based on the book: Digital Image Processing, by Rafael C. Gonzalez and Richard E. Woods.
+The following topics are based on the book: Digital Image Processing, by Rafael C. Gonzalez and Richard E. Woods.
 
 #### Table of Contents  
 * #### Image Enhancement    
