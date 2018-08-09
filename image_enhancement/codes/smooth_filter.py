@@ -19,7 +19,7 @@ def median_filter(img, size_mask):#must be odd
 	blur_size_n = int(n-(size_mask/2)*2)
 
 	blur = np.empty([blur_size_m, blur_size_n], dtype = img.dtype)
-	print blur.shape
+	
 	for i in range(blur_size_m):
 		for j in range(blur_size_n):
 			kernel = img[i:i+size_mask, j:j+size_mask]
@@ -32,7 +32,7 @@ def min_filter(img, size_mask):#must be odd
 	blur_size_n = int(n-(size_mask/2)*2)
 
 	blur = np.empty([blur_size_m, blur_size_n], dtype = img.dtype)
-	print blur.shape
+	
 	for i in range(blur_size_m):
 		for j in range(blur_size_n):
 			kernel = img[i:i+size_mask, j:j+size_mask]
@@ -45,7 +45,7 @@ def max_filter(img, size_mask):#must be odd
 	blur_size_n = int(n-(size_mask/2)*2)
 
 	blur = np.empty([blur_size_m, blur_size_n], dtype = img.dtype)
-	print blur.shape
+	
 	for i in range(blur_size_m):
 		for j in range(blur_size_n):
 			kernel = img[i:i+size_mask, j:j+size_mask]
