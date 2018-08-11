@@ -1,2 +1,2 @@
-### Smooth Spatial Filter for Color Images
+### Smoothing Spatial Filters for Color Images
 
