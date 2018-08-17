@@ -8,3 +8,7 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
    [Sharpening Spatial Filter](image_enhancement/sharp_filter.md)
 * #### Color Image Processing  
     [Histogram Equalization (Color Image)]()   
+    [Color Image Smoothing]()  
+    [Color Image Sharpening]()  
+    [Color Segmentation]()  
+* #### Wavelets and Multiresolution Processing
