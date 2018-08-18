@@ -44,7 +44,7 @@ def gaussian_filter(img, stdX, stdY):
 
 if __name__ == '__main__':
 
-	img_original = cv2.imread('color.jpg')
+	img_original = cv2.imread('name_image.jpg')
 	box_smooth = box_filter(img_original, 13)
 	median_smooth = median_filter(img_original, 13)
 	gaussian_smooth = gaussian_filter(img_original, 13, 13)
