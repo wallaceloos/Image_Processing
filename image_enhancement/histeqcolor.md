@@ -1,4 +1,4 @@
-### Histogram Equalization of Corlor Image
+### Histogram Equalization on Color Image
 [[code]](codes/histequalizecolor.py)
 
 <p align="center">
