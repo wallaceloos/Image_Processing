@@ -42,26 +42,44 @@ def gaussian_filter(img, stdX, stdY):
 	dst[:,:,2] = r
 	return dst
 
+def bilateral_filter(img, d, stdC, stdS):#d: pixel neighborhood , stdC: sigmaColor, stdS: sigmaSpace
+	b = cv2.bilateralFilter(img[:,:,0], d, stdC, stdS)#mean zero
+	g = cv2.bilateralFilter(img[:,:,1], d, stdC, stdS)
+	r = cv2.bilateralFilter(img[:,:,2], d, stdC, stdS)
+
+	dst = np.empty([b.shape[0], b.shape[1], 3], dtype = img.dtype)
+
+	dst[:,:,0] = b
+	dst[:,:,1] = g
+	dst[:,:,2] = r
+	return dst
+
 if __name__ == '__main__':
 
 	img_original = cv2.imread('name_image.jpg')
 	box_smooth = box_filter(img_original, 13)
 	median_smooth = median_filter(img_original, 13)
 	gaussian_smooth = gaussian_filter(img_original, 13, 13)
-
+	bilateral = bilateral_filter(img_original,9,60,60)
+	#you can use the opencv function directly
 
 	plt.figure(figsize=(50,50))
-	plt.subplot(1,3,1)
+	plt.subplot(2,2,1)
 	plt.axis('off')
-	plt.title("Average filter", fontsize=11)
+	plt.title("Average Filter", fontsize=11)
 	plt.imshow(box_smooth[...,::-1])
-	plt.subplot(1,3,2)
+	plt.subplot(2,2,2)
 	plt.axis('off')
-	plt.title("Mediam filter", fontsize=11)
+	plt.title("Mediam Filter", fontsize=11)
 	plt.imshow(median_smooth[...,::-1])
-	plt.subplot(1,3,3)
+	plt.subplot(2,2,3)
 	plt.axis('off')
-	plt.title("Gaussian filter", fontsize=11)
+	plt.title("Gaussian Filter", fontsize=11)
 	plt.imshow(gaussian_smooth[...,::-1])
+	plt.subplot(2,2,4)
+	plt.axis('off')
+	plt.title("Bilateral Filter", fontsize=11)
+	plt.imshow(bilateral[...,::-1])
 	plt.show()
+
 
