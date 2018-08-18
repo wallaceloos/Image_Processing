@@ -5,7 +5,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
-def eqalizeHistogram(img, L):
+def equalizeHistogram(img, L):
 	hist,bins = np.histogram(img.flatten(),L,[0,L])
 	cdf = hist.cumsum()
 	cdfmin = np.min(cdf[np.nonzero(cdf)])
@@ -18,7 +18,7 @@ img = cv2.imread('name of the image',0)
 m,n = img.shape
 L = 256
 
-heq = eqalizeHistogram(img, L)
+heq = equalizeHistogram(img, L)
 imgEq = heq[img]	
 
 plt.figure(figsize=(15,15))
