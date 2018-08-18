@@ -1,5 +1,5 @@
 ### Histogram Matching
-[[code]](codes/histequalize.py)
+[[code]](codes/histmatching.py)
 
 
 <p align="center">
