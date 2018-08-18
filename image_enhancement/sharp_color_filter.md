@@ -1,4 +1,4 @@
-### Smoothing Spatial Filters for Color Images
+### Color Image Sharpening
 [[code]](codes/smoothColor_filter.py)
 
 <p align="center">
