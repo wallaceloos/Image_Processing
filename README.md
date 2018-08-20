@@ -12,4 +12,4 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
     [Color Image Smoothing](image_enhancement/smooth_color_filter.md)  
     [Color Image Sharpening](image_enhancement/sharp_color_filter.md)  
     [Color Segmentation]()  
-* #### Wavelets and Multiresolution Processing
+* #### Morphological Image Processing
