@@ -6,10 +6,6 @@ Segmentation is the process of partitioning an image into different segments.  H
 </p>
 
 <p align="center">
-<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/segcolor_1.png" width="90%" height="30%">
-</p>
-
-<p align="center">
 <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_enhancement/images/segcolor_2.png" width="90%" height="90%">
 </p>
 
