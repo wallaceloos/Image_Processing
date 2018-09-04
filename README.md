@@ -12,4 +12,5 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
     [Color Image Smoothing](image_enhancement/smooth_color_filter.md)  
     [Color Image Sharpening](image_enhancement/sharp_color_filter.md)  
     [Color Segmentation](image_enhancement/seg_color.md)  
-* #### Morphological Image Processing
+* #### Morphological Image Processing   
+    [Boundary Extraction](morphological/boundary_extraction.md)
