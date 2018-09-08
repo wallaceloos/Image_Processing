@@ -14,5 +14,5 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
     [Color Segmentation](image_enhancement/seg_color.md)  
 * #### Morphological Image Processing   
     [Boundary Extraction](morphological/boundary_extraction.md)  
-    [Region Filling](morphological/boundary_extraction.md)
+    [Region Filling](morphological/region_filling.md)
 
