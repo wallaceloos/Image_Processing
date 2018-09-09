@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
 	bin_img = cv2.imread("filling.png",0)
 
-	seeds = np.array([[213, 221], [178, 671], [523,170], [448, 449], [482, 834]])
+	seeds = np.array([[213, 221], [178, 671], [523,170], [448, 449], [482, 834]])#seeds inside of the boundaries
 	res = region_filling(bin_img, seeds)
 	plt.axis('off')
 	plt.imshow(res,'gray')
