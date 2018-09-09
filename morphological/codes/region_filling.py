@@ -37,7 +37,7 @@ def region_filling(img, seeds):
 
 if __name__ == '__main__':
 
-	bin_img = cv2.imread("filling.png",0)
+	bin_img = cv2.imread("filling.png",0)#binary image [0 and 255]
 
 	seeds = np.array([[213, 221], [178, 671], [523,170], [448, 449], [482, 834]])#seeds inside of the boundaries
 	res = region_filling(bin_img, seeds)
