@@ -18,4 +18,5 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
     [Extraction of Connected Components](morphological/extraction_components.md)  
     [Hit-or-Miss Transformation](morphological/hit_miss.md)  
     [Convex Hull](morphological/convex_hull.md)  
+    [Skeletons](morphological/convex_hull.md)  
 
