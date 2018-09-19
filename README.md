@@ -16,6 +16,6 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
     [Boundary Extraction](morphological/boundary_extraction.md)  
     [Region Filling](morphological/region_filling.md)   
     [Extraction of Connected Components](morphological/extraction_components.md)  
-    [Hit-or-Miss Transformation](morphological/extraction_components.md)  
-    [Convex Hull](morphological/extraction_components.md)  
+    [Hit-or-Miss Transformation](morphological/hit_miss.md)  
+    [Convex Hull](morphological/convex_hull.md)  
 
