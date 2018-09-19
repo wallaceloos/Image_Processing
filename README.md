@@ -19,4 +19,5 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
     [Hit-or-Miss Transformation](morphological/hit_miss.md)  
     [Convex Hull](morphological/convex_hull.md)  
     [Skeletons](morphological/convex_hull.md)  
+* #### Image Segmentation     
 
