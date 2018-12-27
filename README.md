@@ -20,6 +20,6 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
     [Convex Hull](morphological/convex_hull.md)  
     [Skeletons](morphological/skeletons.md)  
 * #### Image Segmentation     
-    [Point and Line Detection](imgseg/point_line.md)   
+    [Point and Line Detection](image_segmentation/point_line.md)   
     [Edge Detection](imgseg/edge.md)  
 
