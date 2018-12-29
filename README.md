@@ -21,5 +21,9 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
     [Skeletons](morphological/skeletons.md)  
 * #### Image Segmentation     
     [Point and Line Detection](image_segmentation/point_line.md)   
-    [Edge Detection](imgseg/edge.md)  
+    [Edge Detection](image_segmentation/edge.md)  
+    [Gaussian Mixture Model](image_segmentation/)   
+    [Watershed Segmentation Algorithm](image_segmentation/)  
+    [Superpixel Algorithms](image_segmentation/)   
+    [Use of Motion in Segmentation](image_segmentation/)  
 
