@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_segmentation/images/edge_detection.png" width="130%" height="130%">
+<img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_segmentation/images/edge_detection_.png" width="130%" height="130%">
 </p>
 
 <p align="center">
