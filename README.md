@@ -25,5 +25,5 @@ The following topics are based on the book: Digital Image Processing, by Rafael 
     [Gaussian Mixture Model](image_segmentation/mog.md)   
     [Watershed Segmentation Algorithm](image_segmentation/)  
     [Superpixel Algorithms](image_segmentation/)   
-    [Use of Motion in Segmentation](image_segmentation/)  
+    [Use of Motion in Segmentation](image_segmentation/motion.md)  
 
