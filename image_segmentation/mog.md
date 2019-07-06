@@ -1,6 +1,6 @@
 ### Mixture of Gaussians
 
-[[code]](codes/point_line_detection.ipynb)
+[[code]](codes/mog.ipynb)
 
 <p align="center">
 <img src="https://github.com/wallaceloos/Image_Processing/blob/master/image_segmentation/images/fig3_mog.png" width="100%" height="100%">
